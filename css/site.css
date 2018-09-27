@@ -1,0 +1,37 @@
+.center {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body{
+    background-image: url(http://marcos-falcao.com/wp-content/uploads/2015/10/002ITAUagenciaFULL.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    
+    }
+    
+    .enviar {
+        text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    }
+
+    #center123 {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+   }
+
+   #tabela {
+       display: block;
+   }
+
+   #tabela2 {
+       display: none;
+   }
+
+   #texto {
+       text-align: center;
+   }
+  
